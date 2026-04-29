@@ -24,8 +24,8 @@
 - [x] Adicione o seu README.md ao criar o repositório.
 - [x] Utilize o Github.dev para editar seu projeto diretamente com o editor web do Github.
 - [x] Lembre-se: o repositório deve ser público.
-- [ ] Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
-- [ ] Ambos devem fazer um clone do repositório em suas máquinas locais.
+- [x] Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
+- [x] Ambos devem fazer um clone do repositório em suas máquinas locais.
 - [ ] Realizem alterações, Commits, abra issues e pull requests.
 - [ ] Edite o arquivo "README.md" em seu repositório.
 - [x] Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
